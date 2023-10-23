@@ -1,0 +1,16 @@
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\bin\Debug\net6.0-windows\Prueba01.exe
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\bin\Debug\net6.0-windows\Prueba01.deps.json
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\bin\Debug\net6.0-windows\Prueba01.runtimeconfig.json
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\bin\Debug\net6.0-windows\Prueba01.dll
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\bin\Debug\net6.0-windows\Prueba01.pdb
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.Form1.resources
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.vbproj.GenerateResource.cache
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.AssemblyInfoInputs.cache
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.AssemblyInfo.vb
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.vbproj.CoreCompileInputs.cache
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.dll
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\refint\Prueba01.dll
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.pdb
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\Prueba01.genruntimeconfig.cache
+C:\Users\2DAM_Oltra_Sergi\Documents\DAM\DI\u01\Prueba01\obj\Debug\net6.0-windows\ref\Prueba01.dll
