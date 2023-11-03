@@ -1,0 +1,17 @@
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\bin\Debug\net6.0-windows\Actividad09.exe
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\bin\Debug\net6.0-windows\Actividad09.deps.json
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\bin\Debug\net6.0-windows\Actividad09.runtimeconfig.json
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\bin\Debug\net6.0-windows\Actividad09.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\bin\Debug\net6.0-windows\Actividad09.pdb
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.Form1.resources
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.Form2.resources
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.vbproj.GenerateResource.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.AssemblyInfoInputs.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.AssemblyInfo.vb
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.vbproj.CoreCompileInputs.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\refint\Actividad09.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.pdb
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\Actividad09.genruntimeconfig.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad09\Actividad09\obj\Debug\net6.0-windows\ref\Actividad09.dll
