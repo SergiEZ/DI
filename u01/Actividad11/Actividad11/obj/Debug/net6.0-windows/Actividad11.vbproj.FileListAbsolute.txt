@@ -1,0 +1,16 @@
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.Form1.resources
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.vbproj.GenerateResource.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.AssemblyInfoInputs.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.AssemblyInfo.vb
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.vbproj.CoreCompileInputs.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\bin\Debug\net6.0-windows\Actividad11.exe
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\bin\Debug\net6.0-windows\Actividad11.deps.json
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\bin\Debug\net6.0-windows\Actividad11.runtimeconfig.json
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\bin\Debug\net6.0-windows\Actividad11.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\bin\Debug\net6.0-windows\Actividad11.pdb
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\refint\Actividad11.dll
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.pdb
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\Actividad11.genruntimeconfig.cache
+C:\Users\Eisi\Documents\DI\u01\Actividad11\Actividad11\obj\Debug\net6.0-windows\ref\Actividad11.dll
