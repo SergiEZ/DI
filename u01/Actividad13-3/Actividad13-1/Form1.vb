@@ -10,10 +10,10 @@
             btQuit.PerformClick()
         End If
         If e.Control AndAlso e.Shift AndAlso e.KeyCode = Keys.A Then
-            AboutToolStripMenuItem.PerformClick()
+            AboutBox1.Show()
         End If
         If e.Control AndAlso e.KeyCode = Keys.F1 Then
-            HelpToolStripMenuItem.PerformClick()
+            formAyuda.Show()
         End If
     End Sub
     Private Sub btQuit_Click(sender As Object, e As EventArgs) Handles btQuit.Click, QuitToolStripMenuItem.Click

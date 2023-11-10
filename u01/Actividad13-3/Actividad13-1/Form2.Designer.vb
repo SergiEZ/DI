@@ -32,7 +32,7 @@ Partial Class formAyuda
         TextBox1.Location = New Point(12, 12)
         TextBox1.Multiline = True
         TextBox1.Name = "TextBox1"
-        TextBox1.ScrollBars = ScrollBars.Horizontal
+        TextBox1.ScrollBars = ScrollBars.Vertical
         TextBox1.Size = New Size(403, 364)
         TextBox1.TabIndex = 0
         TextBox1.Text = resources.GetString("TextBox1.Text")
